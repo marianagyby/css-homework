@@ -1,1 +1,1 @@
-# # CSS Week 1 Homework
+# CSS Week 1 Homework
