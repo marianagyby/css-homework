@@ -1,1 +1,1 @@
-#css-week1-and-week2-project
+# CSS Week 1 and Week 2 Project
