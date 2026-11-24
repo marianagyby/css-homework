@@ -9,7 +9,31 @@ header{
 }
 
 nav{
+  display: inline-block;
+  width: 80%;
   background-color: plum;
+}
+
+nav img{
+  width: 10%
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content:space-evenly;
+  align-items: center;
+  row-gap:inherit;
+}
+
+.grid img {
+  width: 100%;
+}
+
+.flex{
+  display:flex;
+  flex-wrap:wrap-reverse;
+  justify-content:space-evenly;
 }
 
 main{
@@ -23,14 +47,14 @@ footer{
   background-color: aquamarine;
 }
 
-li{
+/* li{
   display:inline-block;
   width: 32.33%;
   text-align: center;
   height: 100px; 
   background-color: yellow;
   line-height: 100px;
-}
+} */
 
 h1{
   text-align:center;
